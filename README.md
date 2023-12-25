@@ -110,14 +110,24 @@ sumon sarker   <br/>
 
  ### *image sytax
 
-  ![pic]("5fscopy.jpg" )
+  <!-- ![pic](5fs.jpg) -->
 
-  <img src="5fscopy.jpg">
+  <img src="5fs.jpg" width="100" height="100" title="amni"> 
+  
+   ☺️
+  <br>
+  
+  ### *table sytax
 
+  | Name  | Email        |     Roll |
+  |   -   |  -           |    - |
+  |sumon  | text is here | 55555
+  |sumon  | text is here | 55555
+  |sumon  | text is here | 55555
 
 
   
-
+ 
     
       
  
